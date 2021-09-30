@@ -1,0 +1,3 @@
+revert -> quitar commit sin alterar los commits despues.
+git reset --soft -> volver con stage al mismo estado de commit borrando todos los commits despues
+git reset --mixed -> volver al commit borrando todo, dejando el trabajo sin stage.
